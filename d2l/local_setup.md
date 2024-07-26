@@ -1,5 +1,11 @@
 # steps for local setup
 
+local location: 
+```bash
+(d2l) wei@wei-pc:~/d2l-zh/pytorch$ pwd
+/home/wei/d2l-zh/pytorch
+```
+
 ```bash
   902  sh ~/Downloads/Miniconda3-latest-Linux-x86_64.sh -b # initial install
   903  sh ~/Downloads/Miniconda3-latest-Linux-x86_64.sh -u # update
@@ -19,3 +25,4 @@
   917  cd pytorch
   918  jupyter notebook
 ```
+
